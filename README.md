@@ -11,7 +11,5 @@
 
 
 ### 🏅 Projects :
+
 NotePD (Become an Idea Machine) => 🔗 https://notepd.com/
-
-
--->
