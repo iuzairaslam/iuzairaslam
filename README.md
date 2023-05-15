@@ -49,3 +49,36 @@ https://play.google.com/store/apps/details?id=app.petslover.driver
 
 🤖 Android: https://play.google.com/store/apps/details?id=hospice.pk
 
+### Technologies I Know 🧑‍💻 
+
+Flutter (Dart)
+
+HTML
+
+(Styling)
+CSS
+Bootstrap
+Styled components
+Material UI
+Materialize
+
+(Front-End)
+Javascript (Advanced)
+
+(Back-End)
+Node Js
+Express Js
+
+(Databases)
+MongoDB
+Firebase (Firestore)
+Postgress
+
+(Ecommerce)
+Figma
+Git (and Github)
+
+(Deployment)
+
+Heroku
+Firebase
