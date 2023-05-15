@@ -17,13 +17,13 @@ I am Muhammad Uzair Aslam , Flutter Developer from Pakisan 🇵🇰
 
 #### NotePD (Become an Idea Machine)🔗
 
-Android: https://play.google.com/store/apps/details?id=com.notepd.application
+🤖 Android: https://play.google.com/store/apps/details?id=com.notepd.application
 
-iOS: https://apps.apple.com/us/app/notepd/id1615913166
+ iOS: https://apps.apple.com/us/app/notepd/id1615913166
 
 #### PetsLover (Pets-MarketPlace)🔗
 
-Android: 
+🤖 Android  : 
 
 PetsLover App:
 
@@ -36,4 +36,8 @@ https://play.google.com/store/apps/details?id=app.petslover.agent
 Driver PetsLover:
 
 https://play.google.com/store/apps/details?id=app.petslover.driver
+
+#### Hospice (Empowering the Healthcare)🔗
+
+🤖 Android: https://play.google.com/store/apps/details?id=hospice.pk
 
