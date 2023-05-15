@@ -51,11 +51,11 @@ https://play.google.com/store/apps/details?id=app.petslover.driver
 
 ### Technologies I Know 🧑‍💻 
 
-##### • Flutter (Dart)
+#### • Flutter (Dart)
 
-##### • HTML
+#### • HTML
 
-##### • (Styling)
+#### • (Styling)
 
 CSS
 Bootstrap
@@ -63,22 +63,22 @@ Styled components
 Material UI
 Materialize
 
-##### • (Front-End)
+#### • (Front-End)
 
 Javascript
 
-##### • (Databases)
+#### • (Databases)
 
 MongoDB
 Firebase (Firestore)
 Postgress
 
-##### • (Ecommerce)
+#### • (Ecommerce)
 
 Figma
 Git (and Github)
 
-##### • (Deployment)
+#### • (Deployment)
 
-Heroku
-Firebase
+Play Store
+App Store
