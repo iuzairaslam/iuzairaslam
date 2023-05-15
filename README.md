@@ -2,7 +2,7 @@
 
 I am Muhammad Uzair Aslam , Flutter Developer from Pakisan 🇵🇰
 
-✔️ Freelancer | Mobile Application Developer | Software Engineer
+✅ Freelancer | 📱 Mobile Application Developer | 👨‍💻 Software Engineer
 
 ### 📫 How to reach me:
 
