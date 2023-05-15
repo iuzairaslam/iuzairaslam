@@ -1,6 +1,5 @@
-### Hi there 
-  Vakani , Full Stack (MERN and JAM
-I am Muhammad Uzair Aslam , Flutter Developer from Pakisan 🇵🇰
+### Hi there 👋 I am Muhammad Uzair Aslam , Flutter Developer from Pakisan 🇵🇰
+
 ✔️ Freelancer | Mobile Application Developer | Software Engineer
 
 ### 📫 How to reach me:
