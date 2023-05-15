@@ -15,21 +15,21 @@ I am Muhammad Uzair Aslam , Flutter Developer from Pakisan 🇵🇰
 
 ### 🏅 Projects :
 
-#### NotePD (Become an Idea Machine)🔗
+#### • NotePD (Become an Idea Machine)🔗
 
 🤖 Android: https://play.google.com/store/apps/details?id=com.notepd.application
 
  iOS: https://apps.apple.com/us/app/notepd/id1615913166
 
 
-#### All Out (Trips, Adventures UAE)🔗
+#### • All Out (Trips, Adventures UAE)🔗
 
 🤖 Android: https://play.google.com/store/apps/details?id=com.AllOut.app
 
  iOS: https://apps.apple.com/pk/app/all-out-trips-adventures-uae/id1670310616
 
 
-#### PetsLover (Pets-MarketPlace)🔗
+#### • PetsLover (Pets-MarketPlace)🔗
 
 🤖 Android  : 
 
@@ -45,7 +45,7 @@ Driver PetsLover:
 
 https://play.google.com/store/apps/details?id=app.petslover.driver
 
-#### Hospice (Empowering the Healthcare)🔗
+#### • Hospice (Empowering the Healthcare)🔗
 
 🤖 Android: https://play.google.com/store/apps/details?id=hospice.pk
 
