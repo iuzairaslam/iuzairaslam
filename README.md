@@ -15,7 +15,7 @@ I am Muhammad Uzair Aslam , Flutter Developer from Pakisan 🇵🇰
 
 ### 🏅 Projects :
 
-1. NotePD (Become an Idea Machine)🔗
+#### NotePD (Become an Idea Machine)🔗
 
 Android: https://play.google.com/store/apps/details?id=com.notepd.application
 
