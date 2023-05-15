@@ -58,9 +58,13 @@ https://play.google.com/store/apps/details?id=app.petslover.driver
 #### • (Styling)
 
 CSS
+
 Bootstrap
+
 Styled components
+
 Material UI
+
 Materialize
 
 #### • (Front-End)
@@ -70,15 +74,19 @@ Javascript
 #### • (Databases)
 
 MongoDB
+
 Firebase (Firestore)
+
 Postgress
 
 #### • (Ecommerce)
 
 Figma
+
 Git (and Github)
 
 #### • (Deployment)
 
 Play Store
+
 App Store
