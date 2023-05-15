@@ -49,75 +49,56 @@ https://play.google.com/store/apps/details?id=app.petslover.driver
 
 🤖 Android: https://play.google.com/store/apps/details?id=hospice.pk
 
-### Technologies I Know 🧑‍💻 
 
-#### • Flutter (Dart)
+Technologies I Know 🧑‍💻 
 
-#### • User Interface
+Flutter (Dart)
 
-##### • Widgets
+User Interface
 
-statefull widget
+Widgets
 
-stateless widget
+* statefull widget
+* stateless widget
+* accessibility
 
-accessibility
+Inherited widget
 
-##### • Inherited widget
-Theming
-
-Localization
+* Theming
+* Localization
 
 Style
 
-Material
+* Material
+* Cupertion
 
-Cupertion
+State management
 
-##### • State management
-
-setState
-
-Provider
-
-Redux
-
-BLoC
-
-MobX
+* setState
+* Provider
+* Get
 
 Quality Assurance
 
-##### • Firebase
+* Crashlytics
+* App distribution
+* Analytics
+* Google play beta tests
+* TestFlight
 
-Crashlytics
+ (Databases)
 
-App distribution
+* MongoDB
+* Firebase (Firestore)
+* Postgress
 
-Analytics
+(Ecommerce)
 
-Google play beta tests
+* Figma
+* Git (and Github)
 
-TestFlight
+ (Deployment)
 
-App Center
+* Play Store
+* App Store
 
-#### • (Databases)
-
-MongoDB
-
-Firebase (Firestore)
-
-Postgress
-
-#### • (Ecommerce)
-
-Figma
-
-Git (and Github)
-
-#### • (Deployment)
-
-Play Store
-
-App Store
