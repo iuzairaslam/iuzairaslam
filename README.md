@@ -53,23 +53,54 @@ https://play.google.com/store/apps/details?id=app.petslover.driver
 
 #### • Flutter (Dart)
 
-#### • HTML
+#### • User Interface
 
-#### • (Styling)
+##### • Widgets
 
-CSS
+statefull widget
 
-Bootstrap
+stateless widget
 
-Styled components
+accessibility
 
-Material UI
+##### • Inherited widget
+Theming
 
-Materialize
+Localization
 
-#### • (Front-End)
+Style
 
-Javascript
+Material
+
+Cupertion
+
+##### • State management
+
+setState
+
+Provider
+
+Redux
+
+BLoC
+
+MobX
+
+Quality Assurance
+
+##### • Firebase
+
+Crashlytics
+
+App distribution
+
+Analytics
+
+Google play beta tests
+
+TestFlight
+
+App Center
 
 #### • (Databases)
 
