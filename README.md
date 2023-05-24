@@ -24,13 +24,6 @@ I am Muhammad Uzair Aslam , Flutter Developer from Pakisan 🇵🇰
  iOS: https://apps.apple.com/us/app/notepd/id1615913166
 
 
-#### • All Out (Trips, Adventures UAE)🔗
-
-🤖 Android: https://play.google.com/store/apps/details?id=com.AllOut.app
-
- iOS: https://apps.apple.com/pk/app/all-out-trips-adventures-uae/id1670310616
-
-
 #### • PetsLover (Pets-MarketPlace)🔗
 
 🤖 Android  : 
