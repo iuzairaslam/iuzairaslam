@@ -77,5 +77,15 @@
 
 
 
+### 🌐 Find Me Online
+
+- [GitHub](https://github.com/your-username)
+- [Twitter](https://twitter.com/your-twitter-handle)
+- [Dev.to](https://dev.to/your-dev-to-handle)
+
+### 📊 GitHub Stats
+
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
 
 
