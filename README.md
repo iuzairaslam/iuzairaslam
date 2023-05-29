@@ -69,9 +69,9 @@
 
 <!-- Add your GitHub statistics using shields.io or similar tools -->
 
-![GitHub Stats](https://img.shields.io/github/followers/yourusername?label=Followers&style=social)
-![GitHub Contributions](https://img.shields.io/github/commit-activity/m/yourusername/reponame?style=flat-square)
-![GitHub Stars](https://img.shields.io/github/stars/yourusername/reponame?style=social)
+![GitHub Stats](https://img.shields.io/github/followers/iuzairaslam?label=Followers&style=social)
+![GitHub Contributions](https://img.shields.io/github/commit-activity/m/iuzairaslam/reponame?style=flat-square)
+![GitHub Stars](https://img.shields.io/github/stars/iuzairaslam/reponame?style=social)
 
 <!-- Add any additional sections or customize the format to fit your preferences -->
 
@@ -85,7 +85,7 @@
 
 ### 📊 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=iuzairaslam&show_icons=true&theme=radical)
 
 
 
