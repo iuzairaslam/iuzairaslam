@@ -35,7 +35,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iuzairaslam&" alt="iuzairaslam" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iuzairaslam)](https://github.com/iuzairaslam/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuzairaslam" />
 
 ### Github Activity: 🎆
  
