@@ -21,7 +21,7 @@
 <a href="https://www.linkedin.com/in/iuzairaslam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iuzairaslam" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19136888/uzair-aslam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12141512" height="30" width="40" /></a>
 <a href="https://www.facebook.com/iuzairabbasi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iuzairaslam" height="30" width="40" /></a>
-<a href="https://www.facebook.com/umaraslam.cs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iuzairaslam" height="30" width="40" /></a>
+<a href="https://twitter.com/iuzairaslam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iuzairaslam" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
