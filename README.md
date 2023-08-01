@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I can code 24/7 😉**
 
--  [Let's Work Together!](https://www.upwork.com/freelancers/uzairaslam)
+- 🤝 [Let's Work Together!](https://www.upwork.com/freelancers/uzairaslam) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
