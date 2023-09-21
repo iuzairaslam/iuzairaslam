@@ -1,5 +1,5 @@
 
-![Blue Orange Illustration Business Marketing Blog Banner](https://github.com/iuzairaslam/iuzairaslam/assets/89253314/d16337ba-7998-445e-9095-fe62c84d00c5)
+![Blue Orange Illustration Business Marketing Blog Banner (1)](https://github.com/iuzairaslam/iuzairaslam/assets/89253314/56b22b9f-306e-4026-a6ac-93857048d10c)
 
 
 <h1 align="center">Hi 👋, I'm Uzair Aslam</h1>
