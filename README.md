@@ -2,9 +2,7 @@
 ![Blue Orange Illustration Business Marketing Blog Banner (2)](https://github.com/iuzairaslam/iuzairaslam/assets/89253314/0bcaee4c-03f2-43da-9db5-2d6efb571c5c)
 
 
-<h1 align="center">Hi 👋, I'm Uzair Aslam</h1>
 
-<h3 align="center">A Flutter Developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iuzairaslam&label=Profile%20views&color=0e75b6&style=flat" alt="iuzairaslam" /> </p>
 
