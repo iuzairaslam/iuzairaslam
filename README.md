@@ -1,22 +1,25 @@
 
-<img width="2250" height="1176" alt="Wardiere Inc  (1)" src="https://github.com/user-attachments/assets/6dbb1b8c-b755-407b-9520-a382177c6095" />
-
+<img width="2250" height="1176" alt="Wardiere Inc  (2)" src="https://github.com/user-attachments/assets/822db3f8-9790-4fa4-899e-cf3b7db1e49e" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iuzairaslam&label=Profile%20views&color=0e75b6&style=flat" alt="iuzairaslam" /> </p>
 
 
-- 🔭 I’m currently working in [BuiltinSoft](https://builtinsoft.com)
+I am a Mobile Software Engineer with 3+ years of experience specializing in Flutter development and building high-performance, cross-platform mobile applications for iOS and Android. I hold a Bachelor’s degree in Software Engineering from KFUEIT and focus on delivering applications that combine scalable architectures, pixel-perfect UI, and seamless user experiences.
 
-- 🌱 I’m currently learning **Node Js**
+Over the years, I have contributed to the end-to-end development and successful launch of multiple impactful mobile applications, working with clean code practices, state management patterns (BLoC, GetX, Provider, Riverpod), and robust API integrations to create dynamic, business-ready solutions.
 
-- 👨‍💻 All of my projects are available at [iuzairaslam](https://github.com/iuzairaslam?tab=repositories)
+My core expertise includes:
 
-- 💬 Ask me about **Flutter Frontend & Backend , Firebase**
+- Mobile App Development (Flutter, iOS, Android)
+- Cross-Platform Architecture & Design Systems
+- State Management & Scalable Codebases
+- RESTful & GraphQL API Integration
+- CI/CD, Firebase, and App Store/Play Store Deployment
 
-- ⚡ Fun fact **I can code 24/7 😉**
+Currently, I am expanding my skill set into backend technologies (Node.js, NestJS, MongoDB, PostgreSQL) to grow into a Full-Stack Developer capable of delivering end-to-end solutions that bridge design, functionality, and business goals.
 
-- 🤝 [Let's Work Together!](https://www.upwork.com/freelancers/uzairaslam) 
+I am passionate about building user-centric, innovative, and scalable apps that create real impact. Always open to collaboration, knowledge sharing, and contributing to projects where technology can solve meaningful problems.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
