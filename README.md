@@ -1,6 +1,5 @@
 
-![Blue Orange Illustration Business Marketing Blog Banner (2)](https://github.com/iuzairaslam/iuzairaslam/assets/89253314/0bcaee4c-03f2-43da-9db5-2d6efb571c5c)
-
+<img width="2250" height="1176" alt="Wardiere Inc  (1)" src="https://github.com/user-attachments/assets/6dbb1b8c-b755-407b-9520-a382177c6095" />
 
 
 
