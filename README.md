@@ -33,7 +33,6 @@ Over the years, I have contributed to the end-to-end development and successful 
 
 - 🔭 Currently working at **[Crewlogix Technologies](https://crewlogix.com/)**
 - 🌱 Expanding into **Node.js · NestJS · MongoDB · PostgreSQL** to grow full-stack
-- 🏆 **Top Rated Talent** on Upwork
 - 💼 Portfolio: **[uzairaslam.com](https://uzairaslam.com)**
 - 📫 Reach me at: **iuzairaslam@gmail.com**
 - 🤝 Open to **collaboration**, **freelance projects**, and **open-source contributions**
