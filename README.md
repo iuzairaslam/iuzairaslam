@@ -31,7 +31,7 @@ I am a **Senior Mobile Software Engineer** with **3+ years of experience** speci
 
 Over the years, I have contributed to the end-to-end development and successful launch of multiple impactful mobile applications, working with **clean code practices**, state management patterns (BLoC, GetX, Provider, Riverpod), and robust API integrations to create dynamic, business-ready solutions.
 
-- 🔭 Currently working at **[BuiltinSoft](https://builtinsoft.com)**
+- 🔭 Currently working at **[Crewlogix Technologies](https://crewlogix.com/)**
 - 🌱 Expanding into **Node.js · NestJS · MongoDB · PostgreSQL** to grow full-stack
 - 🏆 **Top Rated Talent** on Upwork
 - 💼 Portfolio: **[uzairaslam.com](https://uzairaslam.com)**
